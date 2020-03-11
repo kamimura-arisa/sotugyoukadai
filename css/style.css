@@ -1,0 +1,57 @@
+
+.taitoru{
+  font-size: 24px;
+}
+.touroku{
+  border-bottom: 0.1875em solid #1B5E20;
+  background-color: #4CAF50;
+  color: #fff;
+  display: inline-block;
+  padding: 0.6em 2em;
+  margin: 0 0 1em;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  font-size: 16px;
+}
+.touroku:hover {
+  border-bottom-color: transparent;
+  transform: translateY(0.1875em);
+}
+.sime{
+  font-weight: bold;
+}
+.kate{
+font-weight: bold;
+}
+.hiduke{
+  font-weight: bold;
+}
+.title{
+  font-weight: bold;
+}
+.nai{
+  font-weight: bold;
+}
+.gazo{
+  font-weight: bold;
+}
+.header{
+  font-size: 30px;
+  color: rgb(12, 5, 37);
+  background: url("../img/top.webp");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin-bottom: 20px; */
+  /* border-bottom: solid  5px rgba(177, 197, 195, 0.972); */
+  /* background-color: rgb(139, 174, 238); */
+}
+.tubuyaki{
+  /* padding: 0.5em 1em;
+    margin: 2em 0;
+    font-weight: bold; */
+    /* border: solid 3px #000000; */
+}
+body{
+  background-color: #fafafa;
+}
